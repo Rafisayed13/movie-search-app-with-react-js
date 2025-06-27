@@ -19,8 +19,8 @@ A sleek movie search application built with React.js and the TMDB API. Search fo
 - TMDB API
 
 ## 📸 Screenshots
+![App Screenshot](assets/app-screenshot.png)
 
-![App Screenshot] (./assets/app-screenshot.png)
 
 ## 📦 Installation
 
